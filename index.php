@@ -275,7 +275,7 @@
                                     <h4 class="subheading">Second Phase of Social Media</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">We moved towards the second phase of social medial in Llama Book where we connect the Llama to the industry to bring everyone together on the samme platform.</p>
+                                    <p class="text-muted">We moved towards the second phase of Llama Book where we connect the Llama to the industry to bring everyone together on the same platform.</p>
                                 </div>
                             </div>
                         </li>
@@ -401,7 +401,7 @@
                     	<ul class="text-muted"  align="left" >
                                     <li>Name: Ankit Goyal</li>
                                     <li>School: Arizona State University</li>
-                                    <li>Degree: Master in Computer Science</li>
+                                    <li>Degree: Master's in Computer Science</li>
                                     <li>Framework: Bootstrap</li>
                         </ul>
                         <h4 align="left"> Reason to Use Bootstrap</h4>
@@ -567,7 +567,7 @@
                                 <h2>Geeky</h2>
                                 <p class="item-intro text-muted">Most Intelligent LLama</p>
                                 <img class="img-responsive img-centered" src="img/portfolio/6.jpg" alt="">
-                                <p>He is considered to be the most Intelligent and smart Llam on the social media. He has so many repositories and award on his name. He is cuurently on doing research on 5 problems which Llamas are facing across the world wide.</p>
+                                <p>He is considered to be the most Intelligent and smart Llam on the social media. He has many repositories and awards on his name. He is cuurently on doing research on 5 problems which Llamas are facing across the world wide.</p>
 								<ul class="list-inline">
                                     <li>Country: America</li>
                                     <li>Age: 4</li>
@@ -600,7 +600,7 @@
                                 <h2>Innocent</h2>
                                 <p class="item-intro text-muted">Most innocent Llama</p>
                                 <img class="img-responsive img-centered" src="img/portfolio/4.jpg" alt="">
-                                <p>He is the most innocent Llama on the social mdeia. he is cosindered to be cute and innocent. These are actual his USB's.</p>
+                                <p>He is the most innocent Llama on the social mdeia. He is cosindered to be cute and innocent. These are actual his USB's.</p>
 								<ul class="list-inline">
                                     <li>Country: America</li>
                                     <li>Age: 2</li>
@@ -633,7 +633,7 @@
                                 <h2>Twin Babies</h2>
                                 <p class="item-intro text-muted">Twin Pair Llama</p>
                                 <img class="img-responsive img-centered" src="img/portfolio/5.jpg" alt="">
-                                <p>They are twin pair most beautiful Lama pair. The have huge following on social media.</p>
+                                <p>They are twin pair most beautiful Lama. The have huge following on social media.</p>
                                 <ul class="list-inline">
                                     <li>Country: America</li>
                                     <li>Age: 1</li>
