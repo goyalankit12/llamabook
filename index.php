@@ -54,6 +54,9 @@
                     <li>
                         <a class="page-scroll" style="color:#4577ba" href="#contact">Contact</a>
                     </li>
+                    <li>
+                        <a class="page-scroll" style="color:#4577ba" href="#aboutMe">About Developer</a>
+                    </li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -385,7 +388,37 @@
             </div>
         </div>
     </section> 
-
+ <!-- About me Section -->
+    <section id="aboutMe">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">About Developer</h2>
+                    <p>
+                    	This is Llamabook! My idea is to connect all the Llama across the globe so that they can connect and share with each other. This is the introductory site for the Llamabook.  
+                    	<br/>
+                    	<h4 align="left"> Developer</h4>
+                    	<ul align="left" >
+                                    <li>Name: Ankit Goyal</li>
+                                    <li>School: Arizona State University</li>
+                                    <li>Degree: Master in Computer Science</li>
+                                    <li>Framework: Bootstrap</li>
+                        </ul>
+                        <h4 align="left"> Reason to Use Bootstrap</h4>
+                    	<ul align="left" >
+                                    <li>Bootstrap websites are highly responsive. It has fluid grid layout that dynamically adjusts to the proper screen resolution. Bootstrap is built on responsive 12-column grids, layouts and components. </li>
+                                    <li>It has numerous built in Javascript plugins to use.</li>
+                                    <li>It has extensive list of components such as Dropdown, Textbox etc.</li>
+                                    <li> it also provides a great documentation to understand it.</li>
+                        </ul>
+                    </p>
+                    
+                </div>
+                
+            </div>
+           
+        </div>
+    </section>
     <footer>
         <div class="container">
             <div class="row">
