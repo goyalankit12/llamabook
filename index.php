@@ -394,18 +394,18 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">About Developer</h2>
-                    <p>
+                    <p class="text-muted"  >
                     	This is Llamabook! My idea is to connect all the Llama across the globe so that they can connect and share with each other. This is the introductory site for the Llamabook.  
                     	<br/>
                     	<h4 align="left"> Developer</h4>
-                    	<ul align="left" >
+                    	<ul class="text-muted"  align="left" >
                                     <li>Name: Ankit Goyal</li>
                                     <li>School: Arizona State University</li>
                                     <li>Degree: Master in Computer Science</li>
                                     <li>Framework: Bootstrap</li>
                         </ul>
                         <h4 align="left"> Reason to Use Bootstrap</h4>
-                    	<ul align="left" >
+                    	<ul class="text-muted"  align="left" >
                                     <li>Bootstrap websites are highly responsive. It has fluid grid layout that dynamically adjusts to the proper screen resolution. Bootstrap is built on responsive 12-column grids, layouts and components. </li>
                                     <li>It has numerous built in Javascript plugins to use.</li>
                                     <li>It has extensive list of components such as Dropdown, Textbox etc.</li>
@@ -501,7 +501,7 @@
                                 <h2>Unbeatbale</h2>
                                 <p class="item-intro text-muted">The most Strongest Llama on the Social Media.</p>
                                 <img class="img-responsive img-centered" src="img/portfolio/2.jpg" alt="">
-                                <p>He is the unbeatable and the strongest Llama on the in the world. He has the huge following and he is very active on social media. </p>
+                                <p>He is the unbeatable and the strongest Llama in the world. He has the huge following and he is very active on social media. </p>
                                 <ul class="list-inline">
                                     <li>Country: America</li>
                                     <li>Age: 7</li>
@@ -534,7 +534,7 @@
                                 <h2>Hair</h2>
                                 <p class="item-intro text-muted">Most Stylish Hairstyle.</p>
                                 <img class="img-responsive img-centered" src="img/portfolio/3.jpg" alt="">
-                                <p>He is the most popukar hair stylish on the social media. He is famous for his hairstyles too. Others Llama look forward to follow his hairstyle from sociaal media.</p>
+                                <p>He is the most popular hair stylish on the social media. He is famous for his own hairstyles too. Others Llama look forward to follow his hairstyle from sociaal media.</p>
 								<ul class="list-inline">
                                     <li>Country: England</li>
                                     <li>Age: 10</li>
@@ -567,7 +567,7 @@
                                 <h2>Geeky</h2>
                                 <p class="item-intro text-muted">Most Intelligent LLama</p>
                                 <img class="img-responsive img-centered" src="img/portfolio/6.jpg" alt="">
-                                <p>He is considered to the most Intelligent and smart Llam on the socual media. He has so many repositories and award on his name. He is cuurently on 5 problems which Llama are facing across the world wide.</p>
+                                <p>He is considered to be the most Intelligent and smart Llam on the social media. He has so many repositories and award on his name. He is cuurently on doing research on 5 problems which Llamas are facing across the world wide.</p>
 								<ul class="list-inline">
                                     <li>Country: America</li>
                                     <li>Age: 4</li>
