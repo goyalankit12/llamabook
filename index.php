@@ -402,6 +402,7 @@
                                     <li>Name: Ankit Goyal</li>
                                     <li>School: Arizona State University</li>
                                     <li>Degree: Master's in Computer Science</li>
+                                    <li>Excitement: I have extensive experience in web development. I really like to build the things which is directly related or can be seen by end user. I really like to build the jazzy and responsive things. </li>
                                     <li>Framework: Bootstrap</li>
                         </ul>
                         <h4 align="left"> Reason to Use Bootstrap</h4>
