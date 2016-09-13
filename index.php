@@ -403,7 +403,7 @@
                                     <li>School: Arizona State University</li>
                                     <li>Degree: Master's in Computer Science</li>
                                      <li>Experience: 3.5 Years of experience in Web Development.</li>
-                                    <li>Excitement: I have extensive experience in web development. I really like to build jazzy and responsive things which are directly related or can be seen by end user. Front End is the first thing which creates the impression on every customer. I like to play with Javascript and CSS to build cool things. </li>
+                                    <li>Excitement: I have 3.5 years of experience in web development. I really like to build jazzy and responsive things which are directly related or can be seen by end user. Front End is the first thing which creates the impression on every customer. I like to play with Javascript and CSS to build cool things. </li>
                                     <li>Framework: Bootstrap</li>
                         </ul>
                         <h4 align="left"> Reason to Use Bootstrap</h4>
