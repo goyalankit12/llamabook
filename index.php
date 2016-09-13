@@ -91,7 +91,7 @@
                         <i class="fa fa-stack-1x fa-inverse"><img style="width: 80%" src="img/logos/connect.png"></img></i>
                     </span>
                     <h4 class="service-heading">Connect</h4>
-                    <p class="text-muted">Connect with Llama acroos the globe and make new friends.</p>
+                    <p class="text-muted">Connect with Llama across the globe and make new friends.</p>
                 </div>
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
@@ -162,7 +162,7 @@
                     </a>
                     <div class="portfolio-caption">
                         <h4>Hair</h4>
-                        <p class="text-muted">Most Beautiful Hairstyle</p>
+                        <p class="text-muted">Most Beautiful Hairstylist</p>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-6 portfolio-item">
@@ -204,7 +204,7 @@
                     </a>
                     <div class="portfolio-caption">
                         <h4>Baby</h4>
-                        <p class="text-muted">Twin Llama pair</p>
+                        <p class="text-muted">Twin Llama </p>
                     </div>
                 </div>
             </div>
@@ -350,7 +350,7 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Contact Us</h2>
-                    <h3 class="section-subheading text-muted" style="color:yellow" >Send your message.</h3>
+                    <h3 class="section-subheading text-muted" style="color:yellow" >We value your feedback.</h3>
                 </div>
             </div>
             <div class="row">
@@ -395,14 +395,15 @@
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">About Developer</h2>
                     <p class="text-muted"  >
-                    	This is Llamabook! My idea is to connect all the Llama across the globe so that they can connect and share with each other. This is the introductory site for the Llamabook.  
+                    	This is Llamabook! My idea is to connect all the Llama across the globe so that they can connect with each other. This is the introductory site for the Llamabook.  
                     	<br/>
                     	<h4 align="left"> Developer</h4>
                     	<ul class="text-muted"  align="left" >
                                     <li>Name: Ankit Goyal</li>
                                     <li>School: Arizona State University</li>
                                     <li>Degree: Master's in Computer Science</li>
-                                    <li>Excitement: I have extensive experience in web development. I really like to build the things which is directly related or can be seen by end user. I really like to build the jazzy and responsive things. </li>
+                                     <li>Experience: 3.5 Years of experience in Web Development.</li>
+                                    <li>Excitement: I have extensive experience in web development. I really like to build jazzy and responsive things which are directly related or can be seen by end user. Front End is the first thing which creates the impression on every customer. I like to play with Javascript and CSS to build cool things. </li>
                                     <li>Framework: Bootstrap</li>
                         </ul>
                         <h4 align="left"> Reason to Use Bootstrap</h4>
@@ -533,13 +534,13 @@
                             <div class="modal-body">
                                 <!-- Project Details Go Here -->
                                 <h2>Hair</h2>
-                                <p class="item-intro text-muted">Most Stylish Hairstyle.</p>
+                                <p class="item-intro text-muted">Most Stylish Hairstylist.</p>
                                 <img class="img-responsive img-centered" src="img/portfolio/3.jpg" alt="">
-                                <p>He is the most popular hair stylish on the social media. He is famous for his own hairstyles too. Others Llama look forward to follow his hairstyle from sociaal media.</p>
+                                <p>He is the most popular hair stylist on the social media. He is famous for his own hairstyles too. Others Llama look forward to follow his hairstyle from sociaal media.</p>
 								<ul class="list-inline">
                                     <li>Country: England</li>
                                     <li>Age: 10</li>
-                                    <li>Occupation: Hairstylish</li>
+                                    <li>Occupation: Hairstylist</li>
                                 </ul>                               
                                  <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                             </div>
@@ -568,7 +569,7 @@
                                 <h2>Geeky</h2>
                                 <p class="item-intro text-muted">Most Intelligent LLama</p>
                                 <img class="img-responsive img-centered" src="img/portfolio/6.jpg" alt="">
-                                <p>He is considered to be the most Intelligent and smart Llam on the social media. He has many repositories and awards on his name. He is cuurently on doing research on 5 problems which Llamas are facing across the world wide.</p>
+                                <p>He is considered to be the most Intelligent and smart Llama on the social media. He has many repositories and awards on his name. He is currently on doing research on 5 problems which Llamas are facing across the world wide.</p>
 								<ul class="list-inline">
                                     <li>Country: America</li>
                                     <li>Age: 4</li>
@@ -632,13 +633,13 @@
                             <div class="modal-body">
                                 <!-- Project Details Go Here -->
                                 <h2>Twin Babies</h2>
-                                <p class="item-intro text-muted">Twin Pair Llama</p>
+                                <p class="item-intro text-muted">Twin Llama</p>
                                 <img class="img-responsive img-centered" src="img/portfolio/5.jpg" alt="">
-                                <p>They are twin pair most beautiful Lama. The have huge following on social media.</p>
+                                <p>They are twin most beautiful Lama. The have huge following on social media.</p>
                                 <ul class="list-inline">
                                     <li>Country: America</li>
                                     <li>Age: 1</li>
-                                    <li>Occupation: Nothing</li>
+                                    <li>Occupation: None</li>
                                 </ul>
                                 <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                             </div>
